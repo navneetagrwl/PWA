@@ -6,10 +6,10 @@ const Pusher = require('pusher')
 
 //initialize Pusher with your appId, key, secret and cluster
 const pusher = new Pusher({
-    app_id: '673173',
-    key: 'cc5fc725ab70b851282b',
-    secret: 'a730ee075b7a434c860c',
-    cluster: 'ap2',
+    app_id: '',
+    key: '',
+    secret: '',
+    cluster: '',
     encrypted: true
 
 })
